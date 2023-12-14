@@ -3,9 +3,9 @@ Revision/Updated project.
 
 Please execute the scripts in the below order:
 
-Source_to_STG_DDL(1).ipynb
-DIM_F_DDL(2).ipynb
-STG_to_fTable.ipynb
+- Source_to_STG_DDL(1).ipynb
+- DIM_F_DDL(2).ipynb
+- STG_to_fTable.ipynb
 
 There is an additional notebook named STG_to_fTable(3).ipynb. PLease ignore.. Made mistakes and I couldn't figure out how to delete.
 
